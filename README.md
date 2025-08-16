@@ -1,6 +1,6 @@
 # 🛒 Blinkit Sales Dashboard
 
-![Dashboard Preview](Dashboard_preview.png)
+![Dashboard Preview](dashboard/Dashboard_preview.png)
 
 This project presents an **interactive sales dashboard** for **Blinkit**, providing insights into total sales, item categories, outlet performance, and customer ratings. The dashboard is designed to support **business decision-making** by highlighting key metrics and trends.
 
